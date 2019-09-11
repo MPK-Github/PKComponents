@@ -1,0 +1,16 @@
+PODS:
+  - PKComponents (0.1.0)
+
+DEPENDENCIES:
+  - PKComponents (from `../`)
+
+EXTERNAL SOURCES:
+  PKComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PKComponents: 4e2f096c67aa6b58b8114a648dad9dc991ddc152
+
+PODFILE CHECKSUM: f4cdc7281e42211d3cf29f6bbd32341e211423b0
+
+COCOAPODS: 1.7.5

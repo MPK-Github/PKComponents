@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PKComponents_Example' do
+  pod 'PKComponents', :path => '../'
+
+  target 'PKComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

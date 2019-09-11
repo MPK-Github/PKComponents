@@ -1,0 +1,6 @@
+framework module PKComponents {
+  umbrella header "PKComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}
